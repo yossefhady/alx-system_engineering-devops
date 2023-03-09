@@ -1,1 +1,1 @@
-Shell script that prints the current path
+This is a project to practice writing shell scripts
